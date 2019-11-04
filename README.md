@@ -1,5 +1,7 @@
 # ring-client
 
+[![Clojars Project](https://img.shields.io/clojars/v/tessellator/ring-client.svg)](https://clojars.org/tessellator/ring-client)
+
 Ring middlewares that help integrate with
 [clj-http](https://github.com/dakrone/clj-http) in ring applications.
 
